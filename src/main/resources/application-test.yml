@@ -1,0 +1,9 @@
+server:
+    port: 7474
+spring:
+    application:
+        name: demo
+# 项目相关配置
+upload:
+    # 文件路径 示例（ Windows配置D:/server/uploadPath，Linux配置 /home/server/uploadPath）
+    profile: D:/server/uploadPath
